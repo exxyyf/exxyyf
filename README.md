@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @exxyyf
 - 👀 I’m interested in music, data science and languages
-- 🌱 I’m currently learning data science and maths
+- 🌱 I’m currently learning data science, machine learning (CV, NLP) and maths
 - 💞️ I’d love to collaborate on cool arty projects
 - 📫 How to reach me: telegram - @exxyyf
 
