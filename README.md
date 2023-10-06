@@ -5,6 +5,7 @@
 - 📫 How to reach me: telegram - @exxyyf
 - 
 <b>Победитель Хакатона «Цифровой прорыв» ДВФО, кейс «Контроль за вниманием локомотивной бригады» от ОАО «РЖД».</b>
+
 Winner of the Digital Breakthrough Hackathon of the Far Eastern Federal District, the case "Control over the attention of the locomotive brigade" from Russian Railways.
 
 <b>My resume can be found [here](https://disk.yandex.ru/i/RCHoNKG0hfaB6Q)</b>
