@@ -8,7 +8,7 @@
 
 Winner of the Digital Breakthrough Hackathon of the Far Eastern Federal District, the case "Control over the attention of the locomotive brigade" from Russian Railways.
 
-<b>My resume can be found [here](https://disk.yandex.ru/i/RCHoNKG0hfaB6Q)</b>
+<b>My resume can be found [here](https://disk.yandex.ru/i/jPrGfQfHSZ9nHg)</b>
 <!---
 exxyyf/exxyyf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
