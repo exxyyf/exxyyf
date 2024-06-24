@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @exxyyf
 - 👀 I’m interested in music, data science and languages
-- 🌱 I’m currently working in X5 Tech
-- 💞️ I’d love to collaborate on cool arty projects
+- 🌱 I’m currently working for X5 Tech
+- 💞️ I’d love to collaborate on cool kind arty projects
 - 📫 How to reach me: telegram - @exxyyf, e-mail: vasilisa.lukoyanova@gmail.com
   
 <b>Победитель Хакатона «Цифровой прорыв» ДВФО, кейс «Контроль за вниманием локомотивной бригады» от ОАО «РЖД».</b>
