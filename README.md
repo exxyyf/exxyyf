@@ -12,7 +12,6 @@ Awardee of the DataWagon Hack launched by PGK, case "Prediction of the railway c
 
 [LinkedIn](https://www.linkedin.com/in/vasilisa-lukoyanova-ds/)  
 <br></br>
-<b>My resume can be found [here](https://drive.google.com/file/d/12eP6_0mHSfXK4CN66B7lU2gHYEjhD_lm/view?usp=sharing)</b>
 <!---
 exxyyf/exxyyf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
